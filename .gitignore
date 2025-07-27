@@ -2,3 +2,4 @@ input_files/
 output_videos/
 best.pt
 utils/
+__pycache__/
